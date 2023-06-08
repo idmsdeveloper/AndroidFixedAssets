@@ -1,33 +1,0 @@
-!EZebra Farmer's Market
-! E 30601 Agoura Rd.
-Agoura Hills, CA 91301
-
-E-2Groceries-0
-E 
-Bananas	   $2.99/LB
-Apples	   $1.99/LB
-Carrots	   $0.99/LB
-
-E-2MeatsE -0
-
-Ribeye	   $9.99/LB
-NY Strip	   $8.99/LB
-
-ESubtotal	   $24.95
-Tax (9%)	   $2.25
-
-BTotal	   $27.20E B 
-
-********************
-
-Thank you for shopping at Zebra!
-
-h@wkI{A123456
-!*No refunds or exchanges without receipt*
-
-!++Zebra Technical Support++
-
-!{Ea1www.zebra.com
-{ E a0
-
-
